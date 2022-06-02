@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fragments.app-merged_res-27:/layout_activity_main.xml.flat",
+        "source": "com.example.fragments.app-main-29:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\layout_fragment_blank_primero.xml.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\layout\\fragment_blank_primero.xml"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\layout_fragment_blank_segundo.xml.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\layout\\fragment_blank_segundo.xml"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-pngs-22:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-merged_res-27:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\drawable\\ic_launcher_background.xml"
+    }
+]

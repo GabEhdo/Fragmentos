@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.fragments.app-mergeDebugResources-26:/layout/activity_main.xml",
+        "source": "com.example.fragments.app-main-29:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-mergeDebugResources-26:\\layout\\fragment_blank_primero.xml",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\layout\\fragment_blank_primero.xml"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-mergeDebugResources-26:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-mergeDebugResources-26:\\layout\\fragment_blank_segundo.xml",
+        "source": "C:\\Users\\cescobeh\\.gradle\\daemon\\7.3.3\\com.example.fragments.app-main-29:\\layout\\fragment_blank_segundo.xml"
+    }
+]
